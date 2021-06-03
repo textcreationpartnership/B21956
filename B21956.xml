@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lords and Commons assembled in Parliament for the vindication of Ferdinando Lord Fairefax, and other imployed in their service against the Earle of New-Castle and his army of papsts which threatens ruine and desolation of our religion lawes and liberties : also requiring and commanding all persons whatsoever, as they tender the good and prosperity of the true protestant religion forthwith to withdraw themselves from his assistance and no longer to aid him nor any of his adherents.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21956</idno><idno type="EEBO-CITATION">12128169</idno>
+  <idno type="VID">197024</idno>
+  <idno type="EEBO-PROQUEST">2240923238</idno>
+  
+            <idno type="STC">Wing E1437</idno>
+            <idno type="OCLC">12128169</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21956)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197024)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 242:E88, no 14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lords and Commons assembled in Parliament for the vindication of Ferdinando Lord Fairefax, and other imployed in their service against the Earle of New-Castle and his army of papsts which threatens ruine and desolation of our religion lawes and liberties : also requiring and commanding all persons whatsoever, as they tender the good and prosperity of the true protestant religion forthwith to withdraw themselves from his assistance and no longer to aid him nor any of his adherents.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[7] p.   </extent>
+               <publicationStmt>
+                  <publisher>... Printed for Iohn Wright ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cumberland, Henry Clifford, --  Earl of, 1591-1643.</term>
+               <term type="personal_name">Fairfax, Ferdinando Fairfax, --  Baron, 1584-1648.</term>
+               <term type="personal_name">Newcastle, William Cavendish, --  Duke of, 1592-1676.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197024:1"/>
+            <p> A DECLARATION Of the LORDS and COMMONS Assembled in PARLIAMENT: For the Vindication of Ferdinando Lord Fairefax, and others imployed in their service against the Earle of <hi>New-Castle,</hi> and his Ar<g ref="char:EOLhyphen"/>my of Papsts, which threatens ruine and Desola<g ref="char:EOLhyphen"/>tion of our Religion Lawes and Liberties.</p>
+            <p>Also requiring and commanding all Persons whatsoever, as they tender the good and prosperity of the true Protestant Religion, forthwith to with<g ref="char:EOLhyphen"/>draw themselves from his Assistance, and no longer to aid him nor any of his Adherents.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Veneris, 3 Feb. 1642.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Lords and Commons Assembled in Parliament, that this Declaration be forthwith Printed and Published.</hi>
+                        </p>
+                        <closer>
+                           <signed>Browne, Cler. Parliament.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Feb. 4. Printed for <hi>Iohn Wright</hi> in the Old Bailey. 1642.</p>
+            <pb facs="tcp:197024:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:197024:2"/>
+            <head>A DECLARATION Of the LORDS and COMMONS Assembled in PARLIAMENT.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Veneris,</hi> 3. <hi>Februarii,</hi> 1642:</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas <hi>Henry</hi> Earl of <hi>Cumberland,</hi> &amp; <hi>Wil<g ref="char:EOLhyphen"/>liam</hi> Earle of <hi>Newca<g ref="char:EOLhyphen"/>stle,</hi> have not only trai<g ref="char:EOLhyphen"/>teroufly raysed War against the Parlia<g ref="char:EOLhyphen"/>ment, but likewise the said Earle of <hi>New<g ref="char:EOLhyphen"/>castle,</hi> out of a wicked Designe to suppresse the Protestant Religion, and to advance the Popish Idolatry and Superstition, hath
+<pb facs="tcp:197024:3"/> raysed and Armed a great number of Pa<g ref="char:EOLhyphen"/>pists, And having brought them together in the body of an Armie, is become their head and Captaine Generall, And further in pur<g ref="char:EOLhyphen"/>suance of that wicked Designe, and for the terrifying and destroying of those, who out of conscience and dutie to God and the Kingdome, should oppose them in the execu<g ref="char:EOLhyphen"/>tion thereof, they have by severall Procla<g ref="char:EOLhyphen"/>mations, that is to say, by one bearing Date the first of <hi>December</hi> last, under the name of the said Earle of <hi>Cumberland,</hi> and another Dated the seventeenth of <hi>Ianuary</hi> last, under the name of the said Earle of <hi>Newcastle,</hi> Fasly, and Maliciously, and Trayterously published <hi>Ferdinando</hi> Lord <hi>Fairefax,</hi> Sir <hi>Thomas Fairefax</hi> Knight, Sir <hi>Edward Loftus</hi> Knight, Sir <hi>Mathew Bointon</hi> Knight and Baronet, Sir <hi>Henry Fowlis,</hi> and Sir <hi>Thomas Maileverer</hi> Baronets, Sir <hi>Richard Darley,</hi> Sir <hi>Christopher Wray,</hi> Sir <hi>Henry Anderson,</hi> Sir <hi>Iohn Savile,</hi> Sir <hi>Edward Rodes,</hi> Sir <hi>Hugh Cholmley,</hi> Sir <hi>Thomas Reinington,</hi> Sir <hi>Thomas Norclisse</hi> Knights, <hi>Iohn Hotham, Thomas Hatcher, William Lister, Iohn Legard,</hi> of <hi>Malton, Iohn Dods<g ref="char:EOLhyphen"/>worth, Iohn Wastell, Iohn Peirse,</hi> Esquiers, <hi>William White, Iohn Robinson, Arthur Beckwich, Thomas Robinson,</hi> and <hi>Thomas Stackdell</hi> Gent. and divers others, and all
+<pb facs="tcp:197024:3"/> their Adherents to be Traytors, The Lords and Commons now assembled in Parlia<g ref="char:EOLhyphen"/>ment doe hereby Declare, that the said <hi>Fer<g ref="char:EOLhyphen"/>dina do</hi> Lord <hi>Fairefax,</hi> is by them or by Au<g ref="char:EOLhyphen"/>thority directed from them, appoynted Cap<g ref="char:EOLhyphen"/>taine Generall of the Forces raysed, and to be raysed for the defence of Religion, the Libertie of the Kingdome, and of the Par<g ref="char:EOLhyphen"/>liament; And whatsoever he or any of the persons aforenamed, or any under him or them, have done by vertue of that Authority, they have done lawfully and according to that duty which all good Subjects owe to God, the King, and their Country; And that they shall for their so doing, be main<g ref="char:EOLhyphen"/>tained by the power and Authority of Par<g ref="char:EOLhyphen"/>liament; And they doe further Authorize, and regard the said <hi>Ferdinando Fairefax,</hi> the said persons aforenamed, and all others to continue and proceed in this so necessary and acceptable a Service: And that all meanes may be used for the suppressing that Army of Papists, and persons Popishly affected, now under the command of the said Earle of <hi>Newcastle▪</hi> which evidently threatens Ruine and Desolution to our Religion, Lawes and Liberties, and will (if not prevented) make us undergoe those Cruelties, Ra<g ref="char:EOLhyphen"/>pines, Spoyling, and Murthering, that our Brethren of <hi>Ireland,</hi> have suffered by
+<pb facs="tcp:197024:4"/> the Popish Rebels there, which must also ex<g ref="char:EOLhyphen"/>pect from these if they be not timely and pow<g ref="char:EOLhyphen"/>erfully resisted, The said Lords and Com<g ref="char:EOLhyphen"/>mons doe further Declare the said <hi>Henry</hi> Earle of <hi>Cumberland,</hi> and <hi>William</hi> Earle of <hi>Newcastle,</hi> and all that shall assist them or ei<g ref="char:EOLhyphen"/>ther of them in their persons, or with Armes, Money, Provision, or otherwise howsoever to be guilty of High Treason, for raysing Armes against the Parliament and King<g ref="char:EOLhyphen"/>dome; And that the said Earle of <hi>Newcastle,</hi> having made himselfe head of a Popish par<g ref="char:EOLhyphen"/>ty now in Armes, hath thereby after a more horrid and detestible manner, manifested himselfe to be a Traytor and an Enemy to all true Religion and goodnesse▪ And there<g ref="char:EOLhyphen"/>fore the said Lords and Commons doe fur<g ref="char:EOLhyphen"/>ther require and command, all persons of what Estate, degree, or quality, whatsoever they be, as they tender the good and prospe<g ref="char:EOLhyphen"/>rity of the true Protestant Religion by Law established, and preservation of themselves, their Lawes, and Liberties, and as they will answer it before Almighty God, that they doe forthwith wholly and absolutely withdraw themselves from giving any Ayde or Assistance to the said Earle of <hi>Newcastle,</hi> or any of the Forces raysed by him or under his command, and that they faile not to give all ready and chearefull obedience, and assi<g ref="char:EOLhyphen"/>stance
+<pb facs="tcp:197024:4"/> to the command and Authority of the said Lord <hi>Fairefax,</hi> so much conducing to the preservation of Religion, and to the peace of the County of <hi>Yorke,</hi> and Weale of the whole Kingdome, whereunto, the Lords and Commons are confident, that all persons which are, or desire to be accounted true Protestants, and rightly affected to Gods true Religion, the peace of the King<g ref="char:EOLhyphen"/>dome, and the Liberty of the Subject will (to their utmost endeavours) willingly and resolutely submit, comforme, and apply them<g ref="char:EOLhyphen"/>selves.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
